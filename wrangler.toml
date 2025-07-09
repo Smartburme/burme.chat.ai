@@ -1,0 +1,3 @@
+name = "burme-gemini"
+main = "functions/api/gemini.ts"
+compatibility_date = "2025-07-09"
