@@ -1,0 +1,12 @@
+{
+  "name": "burmese-gemini-chat",
+  "private": true,
+  "version": "0.0.0",
+  "dependencies": {
+    "@google/genai": "^1.8.0",
+    "firebase": "^11.10.0",
+    "react": "^19.1.0",
+    "react-dom": "^19.1.0",
+    "react-router-dom": "^7.6.3"
+  }
+}

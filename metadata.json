@@ -1,0 +1,6 @@
+{
+  "name": "Copy of Copy of Burmese Gemini Chat",
+  "description": "An AI-powered application built with React and Gemini, featuring a versatile chat interface, advanced text and code generation, and a powerful image creation tool. The application is styled with Tailwind CSS for a modern, floating UI and uses Firebase for secure user authentication.",
+  "requestFramePermissions": [],
+  "prompt": ""
+}
